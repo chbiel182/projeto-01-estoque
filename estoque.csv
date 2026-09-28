@@ -1,0 +1,10 @@
+Produto,Preço,Categoria,Estoque
+Mouse,59.90,Eletrônicos,20
+Teclado,,Eletrônicos,10
+ mouse ,59.90,Eletrônicos,20
+Cadeira,450.00,Móveis,-5
+Monitor,abc,Eletrônicos,8
+Mesa,650.00,Móveis,3
+Fone,120.00,Eletrônicos,15
+CADEIRA,450.00,Móveis,5
+Notebook,3500.00,Eletrônicos,2
